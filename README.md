@@ -1,8 +1,12 @@
 # Komputergrafika házifeladatok
 
-##Fordítás, futtatás
+---
+
+###Fordítás, futtatás
 
 bevgraf-vs-freeglut/bevgraf-vs-freeglut.sln fájlt kell futtatni Visual Studioban. Ezután a zöld nyíllal futtatható a program.
+
+---
 
 ##1. Házi feladat - B-Spline 
 
