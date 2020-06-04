@@ -2,13 +2,13 @@
 
 ---
 
-###Fordítás, futtatás
+### Fordítás, futtatás
 
 bevgraf-vs-freeglut/bevgraf-vs-freeglut.sln fájlt kell futtatni Visual Studioban. Ezután a zöld nyíllal futtatható a program.
 
 ---
 
-##1. Házi feladat - B-Spline 
+## 1. Házi feladat - B-Spline 
 
 A feladat egy, az első és az utolsó kontrollpontját interpoláló **B-Spline görbe** kirajzolására képes program elkészítése, 
 mely a görbe megjelenítése mellett a kontrollpontok elhelyezését, mozgatását és törlését biztosítja. 
@@ -22,7 +22,7 @@ A görbepontokat a gyakorlaton megismert, mátrixokon alapuló módszer segíts�
 
 ---
 
-##2. Házi feladat - NURBS
+## 2. Házi feladat - NURBS
 
 A feladat egy **NURBS**-görbe kirajzolására képes program elkészítése, mely a görbe megjelenítése mellett a görbe alakját 
 befolyásoló adatok valós idejű megváltoztatását is lehetővé teszi. A görbepontokat a gyakorlaton megismert képlet 
@@ -39,7 +39,7 @@ fokszámot. *r* betűvel a csomópontokat lehet kiírni. *f* betűvel az összes
 
 ---
 
-##3. Házi feladat - Bézier-felület
+## 3. Házi feladat - Bézier-felület
 
 A feladat egy **bikubikus Bézier-felület** kirajzolására képes program elkészítése, mely a felület megjelenítése mellett 
 a kontrollpontok áthelyezését biztosítja. A felület pontjait a gyakorlaton megismert képlet segítségével kell kiszámolni.
@@ -55,7 +55,7 @@ x koordinátáját *X*-el lehet növelni *x*-el lehet csökkenteni,
 
 y koordinátáját *Y*-el lehet növelni *y*-el lehet csökkenteni,
 
-z koordinátáját *Z*-el lehet növelni *Z*-el lehet csökkenteni.
+z koordinátáját *Z*-el lehet növelni *z*-el lehet csökkenteni.
 
 A kiválasztott pontot *jobb egérgomb*bal tudjuk elengedni. 
 A kamera horizontális forgatásához az *e* (jobbra) illetve *q* (balra) gombok, 
@@ -64,7 +64,7 @@ illetve *a* (távolodik) gombok szolgálnak.
 
 ---
 
-##4. Házi feladat - Subdivision-görbe
+## 4. Házi feladat - Subdivision-görbe
 
 A feladat egy zárt **subdivision-görbe** kirajzolására képes program elkészítése, mely a görbe pontjait a 
 *Beccari és munkatársai* által kidolgozott *interpolating 4-point C² non-stationary ternary* séma segítségével számolja ki.
