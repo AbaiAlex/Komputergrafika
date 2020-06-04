@@ -1,10 +1,12 @@
 # Komputergrafika házifeladatok
 
+A következőkben a Programtervező informatika szak Komputergrafika tárgy házifeladatai láthatók.
+
 ---
 
 ### Fordítás, futtatás
 
-bevgraf-vs-freeglut/bevgraf-vs-freeglut.sln fájlt kell futtatni Visual Studioban. Ezután a zöld nyíllal futtatható a program.
+*bevgraf-vs-freeglut/bevgraf-vs-freeglut.sln* fájlt kell futtatni **Visual Studioban**. Ezután a zöld nyíllal futtatható a program. Ügyeljünk arra, hogy a megjeleníteni kívánt program legyen megnyitva!
 
 ---
 
@@ -77,3 +79,11 @@ A feladat egy zárt **subdivision-görbe** kirajzolására képes program elkés
 Az *1, 2, 3, 4* gombokkal lehet megjeleníteni és elrejteni a különböző iterációkhozhoz tartozó kontrollpoligonokat. 
 *7* és *9* gombokkal lehet a tensiont csökkenteni és növelni vagy a *8* gombbal lehet egyedi tension értéket adni.
 *5* gombbal lehet a lehelyezett pontokat törölni.
+
+---
+
+## 5. Házi feladat - Loop subdivision
+
+A feladat egy **Loop** subdivision sémát alkalmazó program elkészítése, mely lehetőséget biztosít többszöri finomítás végrehajtására.
+
+***NEM KÉSZÜLT EL***
