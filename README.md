@@ -6,7 +6,7 @@ A következőkben a Programtervező informatika szak Komputergrafika tárgy ház
 
 ### Fordítás, futtatás
 
-*bevgraf-vs-freeglut/bevgraf-vs-freeglut.sln* fájlt kell futtatni **Visual Studioban**. Ezután a <span style="color:green">some *zöld nyíllal* text</span> futtatható a program. Ügyeljünk arra, hogy a megjeleníteni kívánt program legyen megnyitva!
+*bevgraf-vs-freeglut/bevgraf-vs-freeglut.sln* fájlt kell futtatni **Visual Studioban**. Ezután a some <font color='green'>*zöld nyíllal*</font>  futtatható a program. Ügyeljünk arra, hogy a megjeleníteni kívánt program legyen megnyitva!
 
 ---
 
