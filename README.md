@@ -2,6 +2,8 @@
 
 A következőkben a Programtervező informatika szak Komputergrafika tárgy házifeladatai láthatók.
 
+*Open GL projektek*
+
 ---
 
 ### Fordítás, futtatás
